@@ -5,5 +5,5 @@ prueba_configuracion_local.sh
 archivos_privados/
 
 # Ignorar el archivo html con comodines
-# archivosPrueba/index2.html
-*.html
+archivosPrueba/index2.html
+# *.html
